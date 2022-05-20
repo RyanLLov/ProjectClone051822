@@ -1,7 +1,7 @@
 import pygame as pg
 import random
 from settings import *
-from spriteImages import *
+from Sprites import *
 from os import path
 
 class Game:
