@@ -4,13 +4,9 @@
 import pygame as pg
 import random
 from settings import *
-<<<<<<< HEAD
 from spriteImages import *
 from os import path 
-=======
-from Sprites import *
-from os import path
->>>>>>> 23ff45707fd4cd28a6bd49ef61f40f57ef5d5cd3
+
 
 class Game:
     def __init__(self):
