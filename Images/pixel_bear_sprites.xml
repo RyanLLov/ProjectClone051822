@@ -1,0 +1,28 @@
+///<summary> 
+/// Takes certain images in SpritesImage to use for the game
+///</summary>
+
+<TextureAtlas imagePath="sprites.png">
+    <SubTexture name = "Bear_jumping.png" x="1" y="1" width="116" height="131"/>
+	<SubTexture name="Bear_standing.png" x="119" y="1" width="100" height="133"/>
+
+	<SubTexture name="Bomb.png" x="668" y="1" width="137" height="131"/>
+	<SubTexture name="Rock.png" x="807" y="1" width="134" height="68"/>
+
+	<SubTexture name="Bee1L.png" x="943" y="1" width="99" height="114"/>
+	<SubTexture name="Bee2L.png" x="1044" y="1" width="88" height="107"/>
+	<SubTexture name="Bee3L.png" x="1134" y="1" width="90" height="109"/>
+	<SubTexture name="Bee3R.png" x="1226" y="1" width="105" height="110"/>
+	<SubTexture name="Bee2R.png" x="1333" y="1" width="94" height="112"/>
+	<SubTexture name="Bee1R.png" x="1429" y="1" width="100" height="119"/>
+
+
+	<SubTexture name="WaterMelon.png" x="540" y="1" width="126" height="76"/>
+	<SubTexture name="Apple.png" x="323" y="1" width="89" height="98"/>
+	<SubTexture name="Grapes.png" x="414" y="1" width="124" height="114"/>
+	
+	
+	<SubTexture name="Platform1.png" x="221" y="1" width="51" height="248"/>
+	<SubTexture name="Platform2.png" x="274" y="1" width="47" height="246"/>
+
+</TextureAtlas>
